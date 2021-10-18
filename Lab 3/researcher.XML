@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<researcher>
+<name gender="Male">Alan Mathison</name>
+<surname>Turing</surname>
+<degree score="2.0">
+<subject>Mathematics(Honors)</subject>
+</degree>
+<dateOfBirth>23 June 1912</dateOfBirth>
+<dateOfDeath>7 June 1954</dateOfDeath>
+<city>London</city>
+<country>England</country>
+</researcher>
